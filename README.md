@@ -9,7 +9,7 @@
   - [FIM (File Integrity Monitor)]()
 
 <h2>📃 Certifications</h2>
-  - [CompTIA Secure Infrastructure Specialist (A+ / Network+ / Security+)]()
+  - [CompTIA Secure Infrastructure Specialist (A+ / Network+ / Security+)](https://www.certmetrics.com/comptia/electronic_standing.aspx?id=157B8FFE0D04987F9A8B6C15E23B86CDODFF3E589FAAF49CBB440CC0F383EBC67)
 
 
 <!--
